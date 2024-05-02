@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/DoAJaVa/DoAnJAVA/src/DTO/ThongKeTrongThangDTO.java</file>
+            <file>file:/D:/DoAJaVa/DoAnJAVA/src/DAO/ChiTietPhieuXuatDAO.java</file>
+            <file>file:/D:/DoAJaVa/DoAnJAVA/src/GUI/Login.java</file>
+            <file>file:/D:/DoAJaVa/DoAnJAVA/src/GUI/Component/Chart/BarChart/Chart.java</file>
+            <file>file:/D:/DoAJaVa/DoAnJAVA/src/DAO/NhaCungCapDAO.java</file>
+            <file>file:/D:/DoAJaVa/DoAnJAVA/src/DTO/ThongKeKhachHangDTO.java</file>
+            <file>file:/D:/DoAJaVa/DoAnJAVA/src/GUI/Component/Export/writePDF.java</file>
+            <file>file:/D:/DoAJaVa/DoAnJAVA/src/BUS/PhieuNhapBUS.java</file>
+            <file>file:/D:/DoAJaVa/DoAnJAVA/src/GUI/TaiKhoan.java</file>
+            <file>file:/D:/DoAJaVa/DoAnJAVA/src/DAO/KhachHangDAO.java</file>
+            <file>file:/D:/DoAJaVa/DoAnJAVA/src/GUI/Main.java</file>
+            <file>file:/D:/DoAJaVa/DoAnJAVA/src/GUI/NVien/SuaNhanVien.java</file>
+            <file>file:/D:/DoAJaVa/DoAnJAVA/src/DAO/NhanVienDAO.java</file>
+            <file>file:/D:/DoAJaVa/DoAnJAVA/src/DAO/ChiTietPhieuNhapDAO.java</file>
+            <file>file:/D:/DoAJaVa/DoAnJAVA/src/DAO/PhieuNhapDAO.java</file>
+            <file>file:/D:/DoAJaVa/DoAnJAVA/src/BUS/ThongKeBUS.java</file>
+            <file>file:/D:/DoAJaVa/DoAnJAVA/src/BUS/SanPhamPhieuNhapBUS.java</file>
+            <file>file:/D:/DoAJaVa/DoAnJAVA/src/DTO/PhieuNhapDTO.java</file>
+            <file>file:/D:/DoAJaVa/DoAnJAVA/src/GUI/PhieuXuat.java</file>
+            <file>file:/D:/DoAJaVa/DoAnJAVA/src/GUI/SPham/ThemSanPham.java</file>
+            <file>file:/D:/DoAJaVa/DoAnJAVA/src/DAO/ThongKeDAO.java</file>
+            <file>file:/D:/DoAJaVa/DoAnJAVA/src/GUI/NhanVien.java</file>
+            <file>file:/D:/DoAJaVa/DoAnJAVA/src/GUI/PNhap/ChiTietPhieuNhap.java</file>
+            <file>file:/D:/DoAJaVa/DoAnJAVA/src/GUI/PXuat/ChiTietPhieuXuat.java</file>
+            <file>file:/D:/DoAJaVa/DoAnJAVA/src/config/MySQLConnection.java</file>
+            <file>file:/D:/DoAJaVa/DoAnJAVA/src/GUI/PhieuNhap.java</file>
+            <file>file:/D:/DoAJaVa/DoAnJAVA/src/GUI/Component/Formater.java</file>
+            <file>file:/D:/DoAJaVa/DoAnJAVA/src/GUI/ThongKeHeThong/ThongKeDoanhThu.java</file>
+            <file>file:/D:/DoAJaVa/DoAnJAVA/src/GUI/Component/BuildTable.java</file>
+            <file>file:/D:/DoAJaVa/DoAnJAVA/src/DTO/ChiTietPhieuNhapDTO.java</file>
+            <file>file:/D:/DoAJaVa/DoAnJAVA/src/GUI/ThongKeHeThong/ThongKeTonKho.java</file>
+            <file>file:/D:/DoAJaVa/DoAnJAVA/src/DAO/PhieuXuatDAO.java</file>
+            <file>file:/D:/DoAJaVa/DoAnJAVA/src/BUS/NhanVienBUS.java</file>
+            <file>file:/D:/DoAJaVa/DoAnJAVA/src/DTO/TaiKhoanDTO.java</file>
+            <file>file:/D:/DoAJaVa/DoAnJAVA/src/DAO/SanPhamDAO.java</file>
+            <file>file:/D:/DoAJaVa/DoAnJAVA/src/BUS/SanPhamBUS.java</file>
+            <file>file:/D:/DoAJaVa/DoAnJAVA/src/GUI/Component/Chart/BarChart/BlankChart/BlankPlotChart.java</file>
+            <file>file:/D:/DoAJaVa/DoAnJAVA/src/GUI/Panel/TaoPhieuNhap.java</file>
+            <file>file:/D:/DoAJaVa/DoAnJAVA/src/BUS/PhieuXuatBUS.java</file>
+            <file>file:/D:/DoAJaVa/DoAnJAVA/src/GUI/Panel/TaoPhieuXuatt.java</file>
+            <file>file:/D:/DoAJaVa/DoAnJAVA/src/BUS/ThuongHieuBUS.java</file>
+            <file>file:/D:/DoAJaVa/DoAnJAVA/src/GUI/Component/Export/JTableExporter.java</file>
+            <file>file:/D:/DoAJaVa/DoAnJAVA/src/GUI/ThongKeHeThong/ThongKeKhachHang.java</file>
+            <file>file:/D:/DoAJaVa/DoAnJAVA/src/GUI/Component/Chart/BarChart/BlankChart/BlankPlotChatRender.java</file>
+            <file>file:/D:/DoAJaVa/DoAnJAVA/src/GUI/ThongKeHeThong/ThongKeDoanhThuPnl/ThongKeTrongThang.java</file>
+        </group>
+    </open-files>
+</project-private>
